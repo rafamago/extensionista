@@ -1,5 +1,7 @@
 # Projeto Extensionista
 # Como tornar o uso da água mais sustentável no dia a dia
+## Tecnologia usada no projeto
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=00ffee)
 ## Nesse projeto desenvolvi um software que informa:
 #### Os riscos da crise hidríca
 #### A importância do uso sustentável
